@@ -1,6 +1,7 @@
 # flutter_ffmpeg_video_to_image
 
-A new Flutter application.
+概要はこちら
+https://matsumarudesu.com/flutter-ffmpeg-video-split-image/
 
 ## Getting Started
 
